@@ -1,3 +1,6 @@
+// A library to implement the frequently occuring shapes and their animations in MindSpark question templates (at //Educational Initiatives Pvt. Ltd.) to generalize the 
+//task and to avoid repetition of code amongst team members. 
+
 var numberLanguage;
 var getParameters = getURLParameters();
 var objectName='';
